@@ -1,0 +1,67 @@
+Cecil Palmer
+S 1
+P 4 (Bobblehead to 5)
+E 5
+C 9 (SPECIAL to 10)
+I 1
+A 3
+L 5
+
+Weapons: Flare Gun, Faction Grenades
+
+Armor: Reginald's Suit, Trilby Hat, Black Rim Glasses
+
+02	Idiot Savant
+03	Sneak
+04	Inspirational
+05	Sneak 2
+06	Intimidation
+07	Local Leader
+08	Locksmith
+09	Demolition Expert
+10	Aquaboy
+11	Idiot Savant 2
+12	Sneak 3
+13	Demolition Expert 2
+14	Local Leader 2
+15	Locksmith 2
+16	AGL +1
+17	Wasteland Whisperer
+18	AGL +1
+19	Inspirational 2
+20	AGL +1
+21	Aquaboy 2
+22	AGL +1
+23	Sneak 4
+24	AGL +1
+25	Animal Friend
+26	AGL +1
+27	Locksmith 3
+28	AGL +1
+29	Cap Collector
+30	Demolition Expert 3
+31	STR +1
+32	STR +1
+33	Armorer
+34	Demolition Expert 4
+35	Armorer 2
+36	Armorer 3
+37	Intimidation 2
+38	Sneak 5
+39	Cap Collector 2
+40	Armorer 4
+41	Locksmith 4
+42	Moving Target
+43	Moving Target 2
+44	Moving Target 3
+45	Action Boy
+46	Action Boy 2
+47	Action Boy 3
+48	Wasteland Whisperer 2
+49	Animal Friend 2
+50	Intimidation 3
+
+XP to level 50: 98,001
+
+What is Night Vale? - https://soundcloud.com/nightvaleradio
+Who is Cecil?  - http://nightvale.wikia.com/wiki/Cecil_Gershwin_Palmer
