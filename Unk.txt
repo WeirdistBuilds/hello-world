@@ -1,0 +1,62 @@
+S 7
+P 1
+E 4
+C 7
+I 6
+A 2
+L 1
+
+Weapons: Problem Solver
+Armor: Desdemona's Fatigues, Fisherman's Hat, Glasses
+
+02	Commando 1
+03	Cap Collector 1
+04	Gun Nut 1
+05	Science! 1
+06	Armorer 1
+07	Local Leader 1
+08	Party Boy 1
+09	Medic 1
+10	Scrapper 1
+11	Commando 2
+12	Chem Resistant 1
+13	Armorer 2
+14	Gun Nut 2
+15	Party Boy 2
+16	Life Giver 1
+17	Science! 2
+18	Medic 2
+19	Life Giver 2
+20	Cap Collector 2
+21	Commando 3
+22	Chem Resistant 2
+23	Scrapper 2
+24	Life Giver 3
+25	Armorer 3
+26	Gun Nut 3
+27	Perception +1
+28	Science! 3
+29	Perception +1
+30	Medic 3
+31	Perception +1
+32	Locksmith 1
+33	Locksmith 2
+34	Locksmith 3
+35	Commando 4
+36	Intelligence +1
+37	Party Boy 3
+38	Chemist 1
+39	Armorer 4
+40	Gun Nut 4
+41	Science! 4
+42	Scrapper 3
+43	Chemist 2
+44	Chemist 3
+45	Chemist 4
+46	Steady Aim 1
+47	steady Aim 2
+48	Save Perk Point
+49	Commando 5 and Steady Aim 3
+50	Medic 4
+
+XP to level 50: 98,001
