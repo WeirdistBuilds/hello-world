@@ -1,0 +1,62 @@
+S 1
+P 10
+E 1
+C 3
+I 4
+A 8
+L 1
+
+Weapons: Old Reliable
+Armor: Feathered Dress
+
+02	Rifleman 1
+03	Penetrator 1
+04	Concentrated Fire 1
+05	Sneak 1
+06	Sneak 2
+07	Gun Nut 1
+08	Awareness 1
+09	Rifleman 2
+10	Night Person 1
+11	Sniper 1
+12	Sneak 3
+13	Gun Nut 2
+14	Awareness 2
+15	Lone Wanderer 1
+16	Quick Hands 1
+17	Lone Wanderer 2
+18	Rifleman 3
+19	Action Girl 1
+20	Action Girl 2
+21	Sniper 2
+22	Luck +1
+23	Sneak 4
+24	Luck +1
+25	Gun Nut 3
+26	Concentrated Fire 2
+27	Sniper 3
+28	Penetrator 2
+29	Quick Hands 2
+30	Night Person 2
+31	Rifleman 4
+32	Bloody Mess 1
+33	Bloody Mess 2
+34	Bloody Mess 3
+35	Intelligence +1
+36	Intelligence +1
+37	Night Person 3
+38	Sneak 5
+39	Gun Nut 4
+40	Lone Wanderer 3
+41	Quick Hands 3
+42	Action Girl 3
+43	Scrounger 1
+44	Scrounger 2
+45	Scrounger 3
+46	Rifleman 5
+47	Bloody Mess 4
+48	Scrounger 4
+49	Science! 1
+50	Concentrated Fire 3
+
+XP to level 50: 98,001
