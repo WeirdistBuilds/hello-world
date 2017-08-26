@@ -1,0 +1,60 @@
+S 7
+P 1
+E 10
+C 1
+I 7
+A 1
+L 1
+
+02	Chemist 1
+03	Hunter 1
+04	Ghoulish 1
+05	Medic 1
+06	Science! 1
+07	Blacksmith 1
+	Get Perception Bobblehead
+08	Perception up to 3
+09	Perception up to 4
+10	Toughness 1
+11	Hunter 2
+12	Locksmith 1
+13	Locksmith 2
+14	Chem Resistant 1
+15	Toughness 2
+16	Chemist 2
+17	Blacksmith 2
+18	Medic 2
+19	Science! 2
+20	Locksmith 3
+21	Toughness 3
+22	Chem Resistant 2
+23	Big Leagues 1
+24	Ghoulish 2
+25	Armorer 1
+26	Big Leagues 2
+27	Big Leagues 3
+28	Science! 3
+29	Blacksmith 3
+30	Medic 3
+31	Big Leagues 4
+32	Chemist 3
+33	Intellligence up to 8
+34	Robotics Expert 1
+35	Armorer 2
+36	Armorer 3
+37	Toughness 4
+38	Strength up to 8
+39	Armorer 4
+40	Intelligence up to 9
+41	Science! 4
+42	Locksmith 4
+43	Big Leagues 5
+44	Nuclear Physicist 1
+45	Chemist 4
+46	Toughness 5
+47	Strength up to 10
+48	Nuclear Physicist 2
+49	Medic 4
+50	Charisma up to 1 - 10 and local leader
+
+XP to level 50: 98,001
