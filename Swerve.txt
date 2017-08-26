@@ -1,0 +1,62 @@
+S 5
+P 6
+E 2
+C 3
+I 6
+A 5
+L 1
+
+Weapons: Admiral's Friend
+Armor: Red Frock Coat, Captain Ironsides' Hat
+
+02	Heavy Gunner 1
+03	Gun Nut 1
+04	Awareness 1
+05	Night Person 1
+06	Lone Wanderer 1
+07	Sneak 1
+08	Sneak 2
+09	Agility +1
+10	Agility +2
+11	Heavy Gunner 2
+12	Sneak 3
+13	Agility +3
+14	Awareness 2
+15	Quick Hands 1
+16	Ninja 1
+17	Lone Wanderer 2
+18	Ninja 2
+19	Lockpick 1
+20	Science! 1
+21	Heavy Gunner 3
+22	Medic 1
+23	Sneak 4
+24	Hacker 1
+25	Night Person 2
+26	Locksmith 2
+27	Hacker 2
+28	Quick Hands 2
+29	Charisma +1
+30	Charisma +1
+31	Charisma +1
+32	Locksmith 3
+33	Ninja 3
+34	Hacker 3
+35	Heavy Gunner 4
+36	Local Leader 1
+37	Night Person 3
+38	Gun Nut 2
+39	Perception +1
+40	Lone Wanderer 3
+41	Quick Hands 3
+42	Perception +1
+43	Perception +1
+44	Penetrator 1
+45	Penetrator 2
+46	Sniper 1
+47	Heavy Gunner 5
+48	Sniper 2
+49	Sniper 3
+50	Lone Wanderer 4
+
+XP to level 50: 98,001
