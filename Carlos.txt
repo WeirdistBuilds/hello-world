@@ -1,0 +1,63 @@
+S 3
+P 4 (Bobblehead to 5)
+E 1
+C 3
+I 8 (SPECIAL to 9)
+A 7
+L 2
+
+02	Science!
+03	Gunslinger
+04	Sneak
+05	Sneak 2
+06	Ninja
+07	Gunslinger 2
+08	Intelligence +1
+09	Scrounger
+10	Nuclear Physicist
+11	Demolition Expert 
+12	Sneak 3
+13	Demolition Expert 2
+14	Nuclear Physicist 2
+15	Gunslinger 3
+16	Ninja 2
+17	Science! 2
+18	Hacker
+19	Hacker 2
+20	Lone Wanderer
+21	Hacker 3
+22	Demolition Expert 3
+23	Sneak 4
+24	Scrounger 2
+25	Lone Wanderer 2
+26	Robotics Expert
+27	Gunslinger 4
+28	Science! 3
+29	Nerd Rage!
+30	Awareness
+31	Nerd Rage! 2
+32	Perception +1
+33	Ninja 3
+34	Demolition Expert 4
+35	Armorer
+36	Armorer 2
+37	Scrounger 3
+38	Armorer 3
+39	Armorer 4
+40	Lone Wanderer 3
+41	Science! 4
+42	Gunslinger 5
+43	Perception +1
+44	Agility +1
+45	Perception +1
+46	Agility +1
+47	Perception +1
+48	Agility +1
+49	Perception +1
+50	Nerd Rage! 3
+
+Beyond: Lone Wanderer 4
+
+XP to level 50: 98,001
+
+!editcom !build What is Night Vale? - https://soundcloud.com/nightvaleradio || Who is Carlos? - http://nightvale.wikia.com/wiki/Carlos || SPECIAL & Perks? - http://imgur.com/VRpmHg4
