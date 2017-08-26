@@ -1,0 +1,59 @@
+S 7
+P 1 (2 Bobblehead)
+E 3 
+C 5 
+I 6 (7 SPECIAL)
+A 2
+L 4
+
+02	Commando 1
+03	Gun Nut 1
+04	Steady Aim 1
+05	Armorer 1
+06	Lone Wanderer 1
+07	Lifegiver 1
+08	Scrounger 1
+09	Bloody Mess 1
+10	Scrounger 2
+11	Commando 2
+12	Lifegiver 2
+13	Gun Nut 2
+14	Armorer 2
+15	Science 1
+16	Hacker 1
+17	Lone Wanderer 2
+18	Endurance up to 4
+19	Endurance up to 5
+20	Lifegiver 3
+21	Commando 3
+22	Science! 2
+23	Black Widow 1
+24	Scrounger 3
+25	Gun Nut 3
+26	Armorer 3
+27	Bloody Mess 2
+28	Steady Aim 2
+29	Science! 3
+30	Black Widow 2
+31	Black Widow 3
+32	Endurance up to 6
+33	Hacker 2
+34	Hacker 3
+35	Commando 4
+36	Endurance up to 7
+37	Scrounger 4
+38	Endurance up to 8
+39	Gun Nut 4
+40	Armorer 4
+41	Lone Wanderer 3
+42	Science! 4
+43	Endurance up to 9
+44	Endurance up to 10
+45	Solar Powered 1
+46	Solar Powered 2
+47	Bloody Mess 3
+48	Save Point
+49	Commando 5
+50	Steady Aim 3 & Solar Powered 3
+
+XP to level 50: 98,001
