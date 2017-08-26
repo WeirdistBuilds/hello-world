@@ -1,0 +1,59 @@
+S 4
+P 1 (2 Bobblehead)
+E 3
+C 7
+I 9 (10 SPECIAL)
+A 1
+L 3
+
+02	Big Leagues
+03	Nerd Rage
+04	Armorer
+05	Blacksmith
+06	Party Boy
+07	Life Giver
+08	Bloody Mess
+09	Lady Killer
+10	Medic
+11	Science!
+12	Scrapper
+13	Big Leagues 2
+14	Armorer 2
+15	Big Leagues 3
+16	Blacksmith 2
+17	Party Boy 2
+18	Life Giver 2
+19	Bloody Mess 2
+20	Life Giver 3
+21	Lady Killer 2
+22	Lady Killer 3
+23	Medic 2
+24	Science! 2
+25	Armorer 3
+26	Scrapper 2
+27	Big Leagues 4
+28	Science! 3
+29	Blacksmith 3
+30	Medic 3
+31	Nerd Rage 2
+32	Bloody Mess 3
+33	Hacker
+34	Hacker 2
+35	END +1
+36	STR +1
+37	Party Boy 3
+38	END +1
+39	Armorer 4
+40	Scrapper 3
+41	Science! 4
+42	Big Leagues 5
+43	STR +1
+44	END +1
+45	STR +1
+46	END +1
+47	Bloody Mess 4
+48	Hacker 3
+49	Medic 4
+50	Nerd Rage 3
+
+XP to level 50: 98,001
