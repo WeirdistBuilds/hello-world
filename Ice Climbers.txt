@@ -1,0 +1,32 @@
+Ice Climbers
+S	5 (+4)
+P	7 (+6)
+E	4 (+2+1)
+C	8 (+7)
+I	3 (+2)
+A	1
+L	1
+
+Big Leagues			5
+Armorer				4
+Blacksmith 			2
+Heavy Gunner		STR 5	5
+Pickpocket			4
+Locksmith			3
+Refractor		PER 7	5
+Toughness		END 1	5
+Solar Powered		END 10	3
+Inspirational		CHA 8	2
+Hacker			INT 4	2
++1 INT				1
++6 END				6
++2 STR				2
+				49
+
+
+Weapon: Cryolator		171b2b
+	Big Sledge		e7ab9
+				483e4
+
+Armor: 	Maxson's Coat		1fe1a6
+	Feathered Dress		1b5f1b
