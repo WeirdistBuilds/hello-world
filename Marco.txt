@@ -1,0 +1,71 @@
+S 3
+P 1 (2 w/Bobblehead in the Museum of Freedom)
+E 4 (5 w/SPECIAL book under Shaun's crib)
+C 8
+I 8
+A 3
+L 1
+
+Weapons: Plasma and laser pistols (NOTE: You can change the stock to a grip of any legendary laser or plasma rifle, for instance, Righteous Authority can be a pistol.)
+Armor: Raider, metal, combat or other heavy armor with max upgrades and ballistic weaved army or military fatigues. (You could also carry Reginald's Suit for speech checks and selling.)
+Misc: Chems and alcohol to increase survivability, increase charisma, etc.
+
+     Get Ada as soon as you can and buff her as your perks increase. She should have the ability to be upgraded with every Armorer, Science!, and Robotics Expert perk. So long as you don't fully complete Automatron, she won't be "perma-downed" like normal companions. That said, all your companions will be very strong thanks to your charisma and the Inspirational perk.
+     Because you'll be hopefully letting your companion be the vanguard of any attack, you won't need to sneak or use power armor.
+     You should keep an eye out for ingredients for your armor and weapon upgrades, robot upgrades and chem recipies. I enjoy Buffjet for major "oh shit" moments but you should experiment with the weirder drugs like the flavored Mentats. They are really very strong items. You'll also be able to bail into some water after Aquaboy 2 if shit gets too crazy.
+     This build uses Local Leader. Keep in mind that keeping your settlers happy or well stocked is totally up to you and not vital to the build. I simply suggest you set up supply lines so you don't have to keep all your junk in one settlement. Also, building medical stations helps a lot with illness, and weapon shops will be useful for keeping your ammo up. Build workbenches as necessary.
+     You'll have low strength so carrying a lot of shit is not advised. Stick to gathering meds, chems and ammo for caps. Never pick up missiles or mini nukes; they weigh a ton. You won't need to sell a lot, you're going to get great prices. Your companion will have increased carry weight with Inspirational 3 and robots can be modified to be basically covered in pouches.
+    Lastly, once you get Party Boy 2, try to stay drunk all the time. It'll increase some stats while not harming others, and you won't get addicted. Around level 30 you'll start to work on your survivability, by 50 you'll be quite tanky, especially in irradiated places like the Glowing Sea or Far Harbor fog.
+     Have fun!
+
+02    Gunslinger 1
+03    Inspirational 1
+04    Armorer 1
+05    Chemist 1
+06    Science! 1
+07    Gunslinger 2
+08    Chem Resistant 1
+09    Robotics Expert 1
+10    Party Boy 1
+11    Local Leader 1
+12    Lifegiver 1
+13    Armorer 2
+14    Local Leader 2
+15    Gunslinger 3
+16    Chemist 2
+17    Science! 2
+18    Party Boy 2
+19    Inspirational 2
+20    Robotics Expert 2
+21    Lifegiver 2
+22    Chem Resistant 2
+23    Lifegiver 3
+24    Aquaboy 1
+25    Armorer 3
+26    Aquaboy 2
+27    Gunslinger 4
+28    Science! 3
+29    Endurance up to 6
+30    Endurance up to 7
+31    Endurance up to 8
+32    Chemist 3
+33    Endurance up to 9
+34    Ghoulish 1
+35    Ghoulish 2
+36    Endurance up to 10
+37    Party Boy 3
+38    Solar Powered 1
+39    Armorer 4
+40    Solar Powered 2
+41    Science! 4
+42    Gunslinger 5
+43    Inspirational 3
+44    Luck up to 2
+45    Chemist 4
+46    Intelligence up to 9
+47    Charisma up to 9
+48    Ghoulish 3
+49    Save perk point for level 50
+50    Ghoulish 4 AND Solar Powered 3
+
+XP to level 50: 98,001
