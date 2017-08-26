@@ -1,0 +1,59 @@
+S 5
+P 4 (5 Bobblehead)
+E 2 (3 SPECIAL)
+C 8
+I 7
+A 1
+L 1
+
+02	Heavy Gunner 1
+03	Armorer 1
+04	Science 1
+05	Hacker 1
+06	Medic 1
+07	Demolit/ion Expert 1
+08	Intelligence up to 8
+09	Gun Nut 1
+10	Robotics Expert 1
+11	Heavy Gunner 2
+12	Endurance up to 4
+13	Armorer 2
+14	Chem Resistant 1
+15	Chemist 1
+16	Hacker 2
+17	Science 2
+18	Medic 2
+19	Robotics Expert 2
+20	Inspirational 1
+21	Heavy Gunner 3
+22	Hacker 3
+23	Demolition Expert 2
+24	Chem Resistant 2
+25	Armorer 3
+26	Inspirational 2
+27	Blacksmith 1
+28	Science 3
+29	Blacksmith 2
+30	Medic 3
+31	Blacksmith 3
+32	Chemist 2
+33	Endurance up to 5
+34	Demolition Expert 3
+35	Heavy Gunner 4
+36	Endurance up to 6
+37	Endurance up to 7
+38	Endurance up to 8
+39	Armorer 4
+40	Endurance up to 9
+41	Science 4
+42	Gun Nut 2
+43	Ghoulish 1
+44	Robotics Expert 3
+45	Ghoulish 2
+46	Demolition Expert 4
+47	Heavy Gunner 5
+48	Ghoulish 3
+49	Medic 4
+50	Ghoulish 4
+
+XP to level 50: 98,001
