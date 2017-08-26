@@ -1,0 +1,62 @@
+S 8
+P 1
+E 1
+C 3
+I 1
+A 9
+L 5
+
+Weapons: Kremvh's Tooth
+Armor: Harness, Leather Leg pieces, Patrolman Sunglasses
+
+02	Idiot Savant 1
+03	Blitz 1
+04	Sneak 1
+05	Sneak 2
+06	Big Leagues 1
+07	Big Leagues 2
+08	Strength +1
+09	Ninja 1
+10	Lone Wanderer 1
+11	Idiot Savant 2
+12	Sneak 3
+13	Rooted 1
+14	Bloody Mess 1
+15	Big Leagues 3
+16	Ninja 2
+17	Lone Wanderer 2
+18	Strength +1
+19	Perception +1
+20	Bloody Mess 2
+21	Perception +1
+22	Rooted 2
+23	Sneak 4
+24	Agility +1
+25	Perception +1
+26	Fortune Finder 1
+27	Big Leagues 4
+28	Fortune Finder 2
+29	Blitz 2
+30	Locksmith 1
+31	Bloody Mess 3
+32	Locksmith 2
+33	Ninja 3
+34	Locksmtih 3
+35	Endurance +1
+36	Endurance +1
+37	Lifegiver 1
+38	Lifegiver 2
+39	Lifegiver 3
+40	Lone Wanderer 3
+41	Armorer 1
+42	Big Leagues 5
+43	Action Boy 1
+44	Armorer 2
+45	Armorer 3
+46	Armorer 4
+47	Bloody Mess 4
+48	Action Boy 2
+49	Action Boy 3
+50	Lone Wanderer 4
+
+XP to level 50: 98,001
