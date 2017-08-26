@@ -1,0 +1,59 @@
+S 8
+P 1 (2 Bobblehead)
+E 9 (10 SPECIAL)
+C 1
+I 7
+A 1
+L 1
+
+02	Iron Fist 1
+03	Toughness 1
+04	Blacksmith 1
+05	Solar Powered 1
+06	Armorer 1
+07	Chemist 1
+08	Medic 1
+09	Iron Fist 2
+10	Toughness 2
+11	Hacker 1
+12	Hacker 2
+13	Armorer 2
+14	Strength up to 9
+15	Rooted 1
+16	Chemist 2
+17	Strength up to 10
+18	Iron Fist 3
+19	Toughness 3
+20	Medic 2
+21	Hacker 3
+22	Rooted 2
+23	Charisma up to 2
+24	Charisma up to 3
+25	Armorer 3
+26	Charisma up to 4
+27	Solar Powered 2
+28	Charisma up to 5
+29	Charisma up to 6
+30	Medic 3
+31	Iron Fist 4
+32	Toughness 4
+33	Chemist 3
+34	Local Leader 1
+35	Charisma up to 7
+36	Charisma up to 8
+37	Inspirational 1
+38	Inspirational 2
+39	Armorer 4
+40	Luck up to 2
+41	Luck up to 3
+42	Bloody Mess 1
+43	Rooted 3
+44	Bloody Mess 2
+45	Chemist 4
+46	Iron Fist 5
+47	Toughness 5
+48	Bloody Mess 3
+49	Medic 4
+50	Solar Powered 3
+
+XP to level 50: 98,001
