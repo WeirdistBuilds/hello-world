@@ -1,0 +1,59 @@
+S 2
+P 1
+E 8
+C 6
+I 1
+A 9
+L 1
+
+02	Cannibal 1
+03	Blitz 1
+04	Sneak 1
+05	Sneak 2
+06	Iron Fist 1
+07	Ninja 1
+08	Local Leader 1
+09	Iron Fist 2
+10	Rad Resistance 1
+11	Endurance up to 9
+12	Sneak 3
+13	Rad Resistance 2
+14	Local Leader 2
+15	Endurance up to 10
+16	Ninja 2
+17	Solar Powered 1
+18	Iron Fist 3
+19	Cannibal 2
+20	Lone Wanderer 1
+21	Lone Wanderer 2
+22	Moving Target 1
+23	Sneak up to 4
+24	Moving Target 2
+25	Strength up to 3
+26	Rad Resistance 3
+27	Solar Powered 2
+28	Strength up to 4
+29	Blitz 2
+30	Strength up to 5
+31	Iron Fist 4
+32	Strength up to 6
+33	Ninja 3
+34	Strength up to 7
+35	Rad Resistance 4
+36	Strength up to 8
+37	Strength up to 9
+38	Cannibal 3
+39	Rooted 1
+40	Lone Wanderer 3
+41	Rooted 2
+42	Luck up to 2
+43	Luck up to 3
+44	Moving Target 3
+45	Bloody Mess 1
+46	Iron Fist 5
+47	Bloody Mess 2
+48	Bloody Mess 3
+49	Save Point
+50	Solar Powered 3 & Lone Wanderer 4
+
+XP to level 50: 98,001
