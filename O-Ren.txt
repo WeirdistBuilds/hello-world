@@ -1,0 +1,59 @@
+S 3
+P 8 (9 Bobblehead)
+E 1 
+C 3
+I 3
+A 8 (9 SPECIAL)
+L 2
+
+02	Sneak 1
+03	Rifleman 1
+04	Gun Nut 1
+05	Sneak 2
+06	Armorer 1
+07	Penetrator 1
+08	Lone Wanderer 1
+09	Rifleman 2
+10	Scrounger 1
+11	Locksmith 1
+12	Sneak 3
+13	Gun Nut 2
+14	Armorer 2
+15	Scrounger 2
+16	Locksmith 2
+17	Lone Wanderer 2
+18	Rifleman 3
+19	Locksmith 3
+20	Endurance up to 2
+21	Ninja 1
+22	Ninja 2
+23	Sneak 4
+24	Scrounger 3
+25	Gun Nut 3
+26	Armorer 3
+27	Endurance up to 3
+28	Penetrator 2
+29	Mister Sandman 1
+30	Endurance up to 4
+31	Rifleman 4
+32	Mister Sandman 2
+33	Ninja 3
+34	Mister Sandman 3
+35	Endurance up to 5
+36	Night Person 1
+37	Night Person 2
+38	Night Person 3
+39	Gun Nut 4
+40	Armorer 4
+41	Lone Wanderer 3
+42	Endurance up to 6
+43	Luck up to 3
+44	Bloody Mess 1
+45	Endurance up to 7
+46	Rifleman 5
+47	Bloody Mess 2
+48	Bloody Mess 3
+49	Endurance up to 8
+50	Lone Wanderer 4
+
+XP to level 50: 98,001
