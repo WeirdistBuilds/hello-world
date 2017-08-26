@@ -1,0 +1,64 @@
+S 4 (5 SPECIAL)
+P 3 (4 Bobblehead)
+E 10 
+C 1
+I 6
+A 1
+L 3
+
+Weapons: Security Baton (legendary if possible) with Stun Pack
+Armor: Heaviest body armor available
+
+02	Big Leagues 1
+03	Blacksmith 1
+04	Solar Powered 1
+05	Life Giver 1
+06	Armorer 1
+07	Big Leagues 2
+08	Life Giver 2
+09	Medic 1
+10	Bloody Mess 1
+11	Bloody Mess 2
+12	Locksmith 1
+13	Armorer 2
+14	Science! 1
+15	Big Leagues 3
+16	Blacksmith 2
+17	Locksmith 2
+18	Medic 2
+19	Locksmith 3
+20	Life Giver 3
+21	+1 Strength
+22	+1 Strength
+23	+1 Strength
+24	+1 Strength
+25	Armorer 3
+26	Rooted 1
+27	Big Leagues 4
+28	Solar Powered 2
+29	Rooted 2
+30	Medic 3
+31	Bloody Mess 3
+32	+1 Strength
+33	Chem Resistant 1
+34	Chem Resistant 2
+35	Intelligence +1
+36	Chemist 1
+37	Chemist 2
+38	Chemist 3
+39	Armorer 4
+40	Hacker 1
+41	Hacker 2
+42	Big Leagues 5
+43	Rooted 3
+44	Hacker 3
+45	Chemist 4
+46	Cap Collector 1
+47	Bloody Mess 4
+48	Cap Collector 2
+49	Medic 4
+50	Solar Powered 3
+
+XP to level 50: 98,001
+
+!editcom !build What is Night Vale? - https://soundcloud.com/nightvaleradio || Who is the Sheriff's Secret Police? - http://nightvale.wikia.com/wiki/Sheriff%27s_Secret_Police || SPECIAL & Perks? - http://shorttext.com/821afc8e
