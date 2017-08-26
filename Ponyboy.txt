@@ -1,0 +1,39 @@
+VIPER
+Str 4	+3
+Per 4	+3
+End 4	+3
+Cha 6	+5
+Int 1
+Agl 9	+7+1
+Lck 1
+
+LV	Perk/SPECIAL
+
+02	CHA +1			26	STR +1
+03	Big Leagues		27	Big Leagues 4
+04	Blacksmith		28	STR +1
+05	Sneak			29	Blitz 2
+06	Blitz			30	STR +1
+07	Big Leagues 2		31	Rooted
+08	Sneak 2			32	Rooted 2
+09	Party Boy		33	Ninja 3
+10	Chem Resistant		34	STR +1
+11	Locksmith		35	AGL +1
+12	Sneak 3			36	INT +1
+13	Locksmith 2		37	Party Boy 3
+14	Ninja			38	Sneak 5
+15	Big Leagues 3		39	INT +1
+16	Party Boy 2		40	Lone Wanderer 3
+17	Ninja 2			41	INT +1
+18	Locksmith 3		42	Big Leagues 5
+19	Lone Wanderer		43	INT +1
+20	Lone Wanderer 2		44	INT +1
+21	Local Leader		45	INT +1
+22	Chem Resistant 2	46	INT +1
+23	Sneak 4			47	Robotics Expert
+24	STR +1			48	INT +1
+25	STR +1			49	INT +1
+
+STR Bobblehead at LV 34
+AGL Bobblehead at LV 35
+INT Bobblehead at LV 49
