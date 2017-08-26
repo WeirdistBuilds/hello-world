@@ -1,0 +1,107 @@
+S 4
+P 1 (2 with bobblehead)
+E 5
+C 6
+I 1 (2 with special book)
+A 10
+L 1
+
+02 Lone Wanderer I
+03 Blitz I
+04 Sneak I
+05 Sneak II
+06 Ninja I
+07 Life Giver I
+08 Life Giver II
+09 Gun Fu I
+10 Armorer I
+11 Local Leader I
+12 Sneak III
+13 Armorer II
+14 Local Leader II
+15 Cap Collector I
+16 Ninja II
+17 Lone Wanderer II
+18 Action Boy I
+19 saving
+20 Life Giver III & Cap Collector II
+21 Medic I
+22 Action Boy II
+23 Sneak IV
+24 Black Smith I
+25 Armorer III
+26 Gun Fu II
+27 Medic II
+28 Blacksmith II
+29 Blitz II
+30 Medic III
+31 Endurance VI
+32 Endurance VII
+33 Ninja III
+34 Endurance VIII
+35 Endurance IX
+36 Endurance X
+37 Solar Powered I
+38 Solar Powered II
+39 Armorer IV
+40 Lone Wanderer III
+41 Strength V
+42 Strength VI
+43 Strength VII
+44 Strength VIII
+45 Strength IX
+46 Strength X
+47 Blacksmith III? Rooted I?
+48 Saving
+49 Medic IV
+50 Solar Powered III & Gun Fu III
+
+Armor Mods:
+Shadowed (Ultra-)Light or Asbestos Lined Chest
+Shadowed (Ultra-)Light (or Stabilized Arms?)
+Shadowed Muffled Legs
+Perception Hat or Shadowed Helmet
+Military Fatigues (Ballistic Weave) {can be found at Cambridge Police
+Station}
+
+Small guns:
+Short stocks
+Reflex sights
+Light/Hair Trigger/Advanced Receiver or any capacitor
+(Improved) Short Barrel?
+Any muzzle except bayonets
+
+Heavy weapons:
+Standard only for VATS
+
+Melee weapons:
+Best mods possible (depending on level of Blacksmith)
+Aluminium Bats
+
+Must have items:
+Sneak bobblehead
+Agility bobblehead
+Endurance bobblehead
+Sneak Magazines
+Military fatigues
+
+How to play the build:
+Restrictions:
+- no companion
+- no Power armor after first legendary armor piece
+- every legendary enemy has to be killed and the legendary item has to
+be equipped; previously worn item has to be dropped immediately
+
+Possible Playthrough:
+- Leave vault, take everything with you
+- Scrap all of sanctuary and level up to at least level 10 with building
+and scrapping
+- Get the military Fatigues from Cambridge police station
+- Side with the minuteman to complete game
+- also side with the railroad to unlock Ballistic Weave, then leave them be
+- Set up settlements
+- Store all junk, and all mods you stripped of weapons and armor in
+settlements
+- Establish supply lines; let all of them connect to sanctuary
+- Hangman's alley is the main base and gets Settler stores
+- cap defense at least in sanctuary and Hangman's alley (100 - population)
