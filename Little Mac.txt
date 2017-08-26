@@ -1,0 +1,25 @@
+Little Mac
+S	4	(+2+1)
+P	1	
+E	4	(+3)
+C	1	
+I	1	
+A	9	(+8)
+L	9	(+8)
+Iron Fist			5
+Armorer				4
+Blacksmith		STR 4	1
+Sneak				4
+Action Boy			2
+Ninja				3
+Blitz			AGI 9	2
+Bloody Mess			4
+Mysterious Stranger		3
+Idiot Savant			2
+Better Criticals		3
+Four Leaf Clover	LCK 9	4
+STR and END up to 10 (+6 each)	12
+				=49
+
+Weapon: Boxing Glove		0016498f
+Armor: Mechanic Jumpsuit	001c26b9
