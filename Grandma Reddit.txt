@@ -1,0 +1,33 @@
+Grandma Reddit
+
+S	3	(+2)
+P	5	(+4)
+E	1	
+C	8	(+6+1)
+I	6	(+5)
+A	3	(+2)
+L	3	(+2)
+
+Perks
+
+Armorer			4
+
+Pickpocket		2
+Locksmith		3
+*Demolition Expert	4
+
+Lone Wanderer		3
+Attack Dog		3
+Local Leader		1
+Inspirational		2
+
+Hacker			3
+Science!		4
+
+Sneak			4
+
+Bloody Mess		4
+
+
+Rest Dump into END and perks
+
