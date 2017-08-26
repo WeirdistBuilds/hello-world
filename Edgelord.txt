@@ -1,0 +1,59 @@
+S 4
+P 4 (5 Bobblehead)
+E 4 (5 SPECIAL)
+C 6
+I 2
+A 3
+L 5
+
+02	Idiot Savant 1
+03	Armorer 1
+04	Medic 1
+05	Big Leagues 1
+06	Blacksmith 1
+07	Big Leagues 2
+08	Demolition Expert 1
+09	Local Leader 1
+10	Demolition Expert 2
+11	Idiot Savant 2
+12	Endurance up to 6
+13	Armorer 2
+14	Attack Dog 1
+15	Big Leagues 3
+16	Blacksmith 2
+17	Endurance up to 7
+18	Medic 2
+19	Attack Dog 2
+20	Endurance up to 8
+21	Endurance up to 9
+22	Demolition Expert 3
+23	Ghoulish 1
+24	Ghoulish 2
+25	Armorer 3
+26	Attack Dog 3
+27	Big Leagues 4
+28	Wasteland Messiah 1
+29	Blacksmith 3
+30	Medic 3
+31	Attack Dog 4
+32	Intelligence up to 3
+33	Wasteland Messiah 2
+34	Demolition Expert 4
+35	Intelligence up to 4
+36	Wasteland Messiah 3
+37	Intelligence up to 5
+38	Intelligence up to 6
+39	Armorer 4
+40	Science! 1
+41	Science! 2
+42	Big Leagues 5
+43	Science! 3
+44	Science! 4
+45	Cap Collector 1
+46	Cap Collector 2
+47	Cap Collector 3
+48	Ghoulish 3
+49	Medic 4
+50	Ghoulish 4
+
+XP to level 50: 98,001
