@@ -1,0 +1,37 @@
+The Fridge
+
+S	10	(+9)
+P	1
+E	9	(+7+1)
+C	1
+I	1
+A	6	(+5)
+L	1
+
+Perks
+
+Iron Fist	5
+Armorer		4
+Blacksmith	3
+Pain Train	3	15
+
+END +1		1
+Toughness	5
+Lead Belly	3
+Life Giver	3
+Adamantium Sk	3
+Ghoulish	3
+Solar Powered	3	21
+
+INT+5		5
+Science!	3	8
+
+Action Boy	2
+Moving Target	3	5
+
+Armor
+	Power Armor
+	Helm	Rad Scrubbers	Sci 2
+	Torso	Tesla Coils	Sci 3
+	Arms	Tesla Bracers	Sci 1, Blk 3
+	Legs	Optimized Serv	Sci 3
