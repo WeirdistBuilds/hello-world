@@ -1,0 +1,64 @@
+Tamika Flynn
+S 2
+P 4 (5 Bobblehead)
+E 1 
+C 3
+I 1
+A 9
+L 8 (9 SPECIAL)
+
+Weapons: Butcher's Hook (extra hooks)
+
+Armor: Summer Shorts with Ballistic Weave, Shadowed/Weighted Arm Armor, and Shadowed/Sleek Leg Armor
+
+02	Blitz 1
+03	Idiot Savant 1
+04	Sneak 1
+05	Sneak 2
+06	Iron Fist 1
+07	Demolition Expert 1
+08	Four Leaf Clover 1
+09	Iron Fist 2
+10	Demolition Expert 2
+11	Idiot Savant 2
+12	Sneak 3
+13	Four Leaf Clover 2
+14	Strength to 3
+15	Strength to 4
+16	Blacksmith 1
+17	Better Criticals 1
+18	Iron Fist 3
+19	Better Criticals 2
+20	Grim Reaper's Sprint 1
+21	Grim Reaper's Sprint 2
+22	Demolition Expert 3
+23	Sneak 4
+24	Lone Wanderer 1
+25	Lone Wanderer 2
+26	Ninja 1
+27	Ninja 2
+28	Strength up to 5
+29	Blitz 2
+30	Strength up to 6
+31	Iron Fist 4
+32	Four Leaf Clover 3
+33	Ninja 3
+34	Demolition Expert 4
+35	Strength up to 7
+36	Strength up to 8
+37	Strength up to 9
+38	Rooted 1
+39	Rooted 2
+40	Better Criticals 3
+41	Lone Wanderer 3
+42	Armorer 1
+43	Armorer 2
+44	Armorer 3
+45	Armorer 4
+46	Iron Fist 5
+47	Grim Reaper's Sprint 3
+48	Four Leaf Clover 4
+49	Luck up to 10
+50	Lone Wanderer 4
+
+XP to level 50: 98,001
