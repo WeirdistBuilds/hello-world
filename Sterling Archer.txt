@@ -1,0 +1,59 @@
+S 3
+P 5 (6 Bobblehead)
+E 1
+C 7
+I 2
+A 5 (6 SPECIAL)
+L 5
+
+02	Gunslinger 1
+03	Sneak 1
+04	Idiot Savant 1
+05	Sneak 2
+06	Luck up to 6
+07	Gunslinger 2
+08	Better Criticals 1
+09	Scrounger 1
+10	Medic 1
+11	Idiot Savant 2
+12	Sneak 3
+13	Scrounger 2
+14	Agility up to 7
+15	Gunslinger 3
+16	Better Criticals 2
+17	Agility up to 8
+18	Medic 2
+19	Party Boy 1
+20	Party Boy 2
+21	Night Person 1
+22	Agility up to 9
+23	Armorer 1
+24	Armorer 2
+25	Armorer 3
+26	Sneak 4
+27	Gunslinger 4
+28	Night Person 2
+29	Agility up to 10
+30	Medic 3
+31	Gun-Fu 1
+32	Gun-Fu 2
+33	Luck up to 7
+34	Luck up to 8
+35	Luck up to 9
+36	Four Leaf Clover 1
+37	Party Boy 3
+38	Night Person 3
+39	Armorer 4
+40	Better Criticals 3
+41	Four Leaf Clover 2
+42	Gunslinger 5
+43	Four Leaf Clover 3
+44	Luck up to 10
+45	Ricochet 1
+46	Ricochet 2
+47	Save Point
+48	Four Leaf Clover 4
+49	Medic 4
+50	Gun-Fu 3 & Ricochet 3
+
+XP to level 50: 98,001
